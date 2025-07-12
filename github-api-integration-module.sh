@@ -1,7 +1,7 @@
 #!/bin/bash
 ################################
 # Author: Munzir
-# Version: v2
+# Version: v3
 #
 #
 #
